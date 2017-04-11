@@ -1,0 +1,14 @@
+# Auto detected files not exist this list and perform LF normalization
+* text=auto
+
+*.exe binary
+*.exp binary
+*.dll binary
+*.lib binary
+*.frx binary
+*.ico binary
+
+*.frm   text eol=crlf
+*.vbw   text eol=crlf
+*.vbp   text eol=crlf
+*.bas   text eol=crlf
